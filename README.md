@@ -21,6 +21,8 @@ Here is our Android App UI:
   <img src="https://github.com/JihanHasan1/Crop-Predictor-App/assets/150295625/49b3cd1b-aa2a-42db-87f6-caff8c7cbed6" alt="App_Image">
 </div>
 
+<br>
+<br>
 Here is the System Flowchart:
 
 <div align="center">
