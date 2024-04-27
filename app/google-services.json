@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "42126841473",
+    "firebase_url": "https://crop-prediction-415d1-default-rtdb.firebaseio.com",
+    "project_id": "crop-prediction-415d1",
+    "storage_bucket": "crop-prediction-415d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42126841473:android:b7403871ea527ee1795f80",
+        "android_client_info": {
+          "package_name": "com.example.crop_prediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB516HNHgCrP-tX2JUP10OjIC0H16F14eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
