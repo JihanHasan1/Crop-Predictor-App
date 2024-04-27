@@ -13,7 +13,7 @@ Traditional crop prediction methods are time-consuming and requires expertise. B
 7. Portable Device
 8. User Friendly App Interface
 
-**Skills**: XML · Java · Firebase Database · Android Studio ·  Android Development
+**Skills**: XML · Java · Firebase Database · Android Studio ·  Android App Development
 
 Here is our Android App UI:
 
