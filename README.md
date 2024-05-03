@@ -1,6 +1,6 @@
 # Crop Prediction Based on Soil Properties for Soybean, Sesame, Sunflower and Mustard
 
-Traditional crop prediction methods are time-consuming and requires expertise. But our portable device and app can provide an accurate decision to farmers/users based on their land's soil properties immediately. A soil NPK sensor is used to measure the soil properties. AHP Method is used to make the decision which determines the suitability scores based on the soil properties and compare them to get the best score. Although the system is quite effecient but it has some limitations too. The app gives solution for only four selected crops and limited to four properties for determining suitability scores.
+Traditional crop prediction methods are time-consuming and requires expertise. But our portable device and app can provide an accurate decision to farmers/users based on their land's soil properties immediately. A soil NPK sensor is used to measure the soil properties. AHP Method is used to make the decision which determines the suitability scores based on the soil properties and compare them to get the best score. Although the system is quite efficient but it has some limitations too. The app gives solution for only four selected crops and limited to four properties for determining suitability scores.
 
 **Features**:
 
